@@ -17,7 +17,5 @@ document.getElementById('login-submit').addEventListener('click',function(){
     else{
         console.log('invalid user');
     }
-    
 
-
-})
+});
